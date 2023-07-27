@@ -1,0 +1,67 @@
+<html>
+    <style>
+       h1{
+        background-color: rgba(59, 97, 53, 0.677);
+
+       } 
+    </style>
+    <style>
+        body {
+            background: rgb(137, 185, 139);
+            color: rgb(15, 43, 5);
+        }
+
+        img {
+      display: block;
+      margin: 0 auto;
+    }
+
+        figure{
+            text-align: center;
+        }
+
+        /* Main content styles */
+        .content {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-between;
+            margin-top: 20px;
+        }
+
+        
+    </style>
+    <h1><center>VINOO's POSTS</center></h1>
+    <div>
+        <figure><img src="images/image mine.jpeg" alt="Vinoo" width="300" height="400">
+        </figure>
+
+    <p>Good day! Huhuhu, welcome to my blog. My name is Vinooshini, but you can call me Vinoo if you prefer. Let me introduce myself. I'm 21 years old this year, yet I don't feel like I'm ageing. Hehe, for fun only. My family and I am currently residing in Selangor. Since I only have one older sister, I naturally rate as my parent's second-coolest daughter. I'm now pursuing a Bachelor of Business Administration degree at UKM. How do I describe myself? Hehe, I am ambitious and driven. I thrive on challenges and constantly set goals for myself, so I have something to strive toward. I'm not comfortable with settling, and I'm always looking for an opportunity to do better and achieve greatness. So, that’s all from me about myself. I hope you guys will enjoy the blog by reading! Happy reading guys!!
+    </p>
+    </div> 
+    <h1><center>PLACES IN UKM</center></h1>
+<div>
+    <figure><img src="images/fep.jpeg" alt="FEP" width="500" height="500"</figure>
+    <P><B>FACULTY OF ECONOMICS AND MANAGEMENT</B></P>
+    <p>The students and lecturers there refer to the school's faculty of economics and business as FEP. As everyone is knowing, here is where I shall go to class each day. This faculty's interior decor is stunning and appealing to everyone. There are several classes with accommodating facilities for students. This enables us to always be in great circumstances. Additionally, there is a little shop serving affordable food and drinks for students. Students usually look forward to going to class and, of course, the food.
+    </p>
+</div>
+
+<div>
+    <figure><img src="images/kpz cafe.jpg" alt="KPZ Cafe" width="500" height="300"</figure>
+    <p><b>KOLEJ PENDETA ZAABA CAFE</b></p>
+    <p>So, here is the cafe where my buddies and I typically eat lunch. When compared to other cafes, the food served here is wonderful. Additionally, there are lots of vendors providing a wide variety of food styles. Typically, lunchtime will see a large number of people. Students can afford the food costs as well. Everyone can feel comfortable and spacious at the cafe.
+    </p>
+</div>
+<h1 ><center>A WEEK IN UKM</center></h1>
+    <div>
+        <h2>Vinoo's share:</h2>
+       <p><li>Well, I do recall that I had spent the entire March waiting to enter the university on my first day. Since it was my first day at the university and I didn't know anyone, I was both anxious and excited at the same time. I also had no idea how to go to my classroom. I bumped into two beautiful girls in the middle of the time who were my classmates. Yasmin and Fatin are their names. They were the first friends I ever made there. We attended the classes together and they were kind to me.
+        </li></p>
+        <figure><img src="images/vinoo yas.jpeg" alt="Yasmin" width="400" height="500"</figure><figure><img src="images/vinoo fatin.jpeg" alt="Fatin" width="600" height="500"</figure>
+        <p><li>I had a difficult first week of the semester because I had only recently learned how to register for courses. In addition, my buddies and I visited the FEP office to sort out some problems with the course registration. We then proceeded to KUO Cafe for lunch. There, we enjoyed fantastic cuisine and a fun time.
+        </li></p>
+        <figure><img src="images/us.jpeg" alt="We" width="500" height="300"</figure>
+
+        <h2><center>THANK YOU FOR READING!</center></h2>
+       
+</html>

@@ -1,0 +1,61 @@
+<html>
+    <style>
+       h1{
+        background-color: rgba(59, 97, 53, 0.677);
+
+       } 
+    </style>
+    <style>
+        body {
+            background: rgb(137, 185, 139);
+            color: rgb(15, 43, 5);
+        }
+
+        img {
+      display: block;
+      margin: 0 auto;
+    }
+
+        figure{
+            text-align: center;
+        }
+
+        /* Main content styles */
+        .content {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-between;
+            margin-top: 20px;
+        }
+
+        
+    </style>
+    <h1><center>VINOO's POSTS</center></h1>
+    <div>
+        <figure><img src="" alt="" width="300" height="300">
+        </figure>
+
+    <p>HJGG
+    </p>
+    </div> 
+    <h1><center>PLACES IN UKM</center></h1>
+<div>
+    <figure><img src="" alt="" width="500" height="300"</figure>
+    <P><B>BBBB</B></P>
+    <p>GFGHFG
+    </p>
+</div>
+
+<div>
+    <figure><img src="" alt="" width="500" height="300"</figure>
+    <p><b>AAAA</b></p>
+    <p>HGDG
+    </p>
+</div>
+<h1 ><center>A WEEK IN UKM</center></h1>
+    <div>
+        <h2>Vinoo's share:</h2>
+       <p><li>
+        </li></p>
+       
+</html>

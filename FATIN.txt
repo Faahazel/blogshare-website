@@ -1,0 +1,96 @@
+<html>
+    <style>
+       h1{
+        background-color: rgba(59, 97, 53, 0.677);
+
+       } 
+    </style>
+    <style>
+        body {
+            background: rgb(137, 185, 139);
+            color: rgb(15, 43, 5);
+        }
+
+        img {
+      display: block;
+      margin: 0 auto;
+    }
+
+        figure{
+            text-align: center;
+        }
+
+        /* Main content styles */
+        .content {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-between;
+            margin-top: 20px;
+        }
+
+        
+    </style>
+    <h1><center>FATIN's POSTS</center></h1>
+    <div>
+        <figure><img src="cantik.jpg" alt="fatin" width="300" height="300">
+        </figure>
+    <p><B>Hi and Assalamualaikum, welcome to our blog peeps!</B></p>
+    <p>I'm Fatin Nurhazirah Zamzury, you guys can call me either Fatin or Hazirah
+        as long as it's still my name, that's not a problem for me. Here I would love to share a little bit 
+        about myself, even though there is actually no uniqueness about me. But, I love myself,
+        and I'm happy to share my humble biography. I'm 20 and was born in Kuala Terengganu,
+        but currently I'm staying at Johor to follow my family that has lived there since I was little.
+        Besides, I'm the third of four siblings and I'm the only daughter in the family.
+        Some people said that only daughter are lucky, for me, yes, because I got everything without
+        mind to share it with my other siblings. I don't know how to describe myself; what can I say
+        that I'm fragile and complicated. That is all the information about myselfthat i able to share.
+        Without further ado, enjoy the blogs guys!
+    </p>
+    </div> 
+    <h1><center>PLACES IN UKM</center></h1>
+<div>
+    <figure><img src="PTSL.png" alt="PTSL" width="500" height="300"</figure>
+    <P><B>PERPUSTAKAAN TUN SRI LANANG</B></P>
+    <p>Perpustakaan Tun Sri Lanang or well-known as PTSL is very famous places
+        among "bookworm" students. This library has a huge longitude and latitude that provide 
+        many facilities such as cyber center, a study room, and more that are suitable
+        for students to have a group discussion or review their studies. Besides, they
+        also provide many study references, and it quite easy to search all the 
+        reference sources because they are already arranged according to their genre
+        and type codes. And to make it easier, the library already has a system that can help
+        users find their reading sources.
+    </p>
+</div>
+
+<div>
+    <figure><img src="HMB.png" alt="HMB" width="500" height="300"</figure>
+    <p><b>HOT MEAL BAR UKM</b></p>
+    <p>The Hot Meal Bar restaurant is the most hectic and crowded place in UKM,
+        especially during the peak hours. This restaurant serves Chinese cuisine,
+        and the most popular meal there is beef mee tarik and dumplings. The price
+        is quite affordable for the portion they serve. I highly recommend This
+        place to those who are currently craving the Chinese cuisine.
+    </p>
+</div>
+<h1 ><center>A WEEK IN UKM</center></h1>
+    <div>
+        <h2>Fatin's share:</h2>
+       <p><li>My first week in UKM was a bit chaotic at first because there were
+            too many things I should settle on at once while the class had already
+            started, but everything went smoothly and fun after I managed to make friends
+            with two first persons when I was starting my journey in UKM. Those 
+            two lucky people are my own blog mates, Yasmin and Vinoo. We enjoyed our
+            first week of learning in UKM, even though it was still done online.
+        </li></p>
+        <p><li>I'm effectively registered as a UKM student at the end of March, which
+            falls in the month of fasting. It was very hectic yet fun because, during the same
+            time I was busy with class and registering for CITRA courses, I also took
+            the opportunity to go food hunting for iftar around cafes in UKM. I've already
+            tried certain meals from cafes around UKM. Everything is delicious and very 
+            affordable for students. My favourite meals are from KPZ. I love KPZ's meals
+            even though I'm Highlanders.
+        </li></p>
+
+        <h2><center>THANK YOU...</center></h2>
+    
+</html>
